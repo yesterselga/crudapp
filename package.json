@@ -16,6 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "admin-lte": "^3.1.0"
+        "admin-lte": "^3.1.0",
+        "vue": "^2.6.12"
     }
 }
